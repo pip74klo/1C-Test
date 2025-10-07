@@ -56,8 +56,6 @@ const data = [
     link: 'https://docs.google.com/forms/d/e/1FAIpQLSeJbvdRNS_W3S2apDR5-jhe1E2FcCkPefTfaf2wNGgLlhRbtw/viewform?usp=header'
   },
 ]
-console.log(data);
-
 
 const list = document.querySelector('.list')
 const info = data.map(({ link, title }, index) => {
