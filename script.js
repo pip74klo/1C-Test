@@ -21,7 +21,7 @@ const data = [
   },
   {
     title: 'Механизмы сложных периодических расчетов',
-    link: 'https://docs.google.com/forms/d/1IguXhD_2LlBmNTKevx3ouaBf0_549QcF0KJ3oK1EYD0/preview?edit_requested=true'
+    link: 'https://docs.google.com/forms/d/e/1FAIpQLScuCbNLNZ4SKSx4fltrJYerrnHJSSh4IuzmK-9BUEF04hG0jw/viewform'
   },
   {
     title: 'Обслуживание прикладного решения',
