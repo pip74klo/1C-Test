@@ -18,8 +18,12 @@
   height: 50px;
   position: absolute;
   right: 10px;
-  top: 10px;
+  top: 5px;
   cursor: pointer;
+}
+
+.buttonLeft {
+  left: 10px;
 }
 
 .header h1 {
@@ -63,10 +67,6 @@
 
 .list li a:hover {
   color: tomato;
-}
-
-.hideButton {
-  font-size: 25px;
 }
 
 @media (max-width:550px) {
